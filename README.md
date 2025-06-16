@@ -18,8 +18,6 @@ Passionate about innovation, especially in AI, data science, and digital transfo
 </p>
 <br/>
 
-<p align="center"><a href="https://www.buymeacoffee.com/tehseenumar"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="buymeacoffee"></a></p>
-
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center" width="28" /> What I currently do</h2></summary>
 
 - 👨‍💻 Senior UI/UX Engineer at <b>Bilytica Pakistan</b> (Sep 2023 - Present)
