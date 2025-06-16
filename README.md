@@ -38,10 +38,14 @@ Passionate about innovation, especially in AI, data science, and digital transfo
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Connect with Me</h2></summary>
 
 <p align="center">
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white">](https://be.net/tehseenuma5629)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/se-tehseen-umar)
-[<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tehseenumar.tech@gmail.com)
+<a href="https://www.behance.net/tehseenuma5629" target="_blank"><img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://linkedin.com/in/se-tehseen-umar" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tehseenumar.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/tehseenuma5629)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/se-tehseen-umar)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ade_the_great) 
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center" width="28" /> My Github Stats</h2> </summary>
 
@@ -56,40 +60,8 @@ Passionate about innovation, especially in AI, data science, and digital transfo
 
 <br>
 
-<div align="center">
-<!-- Front-End Development -->
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="SASS" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" alt="Tailwind CSS" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 
-<!-- Frameworks & Libraries -->
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/aspnet-original-wordmark.svg" alt="ASP.NET" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />
-
-<!-- CMS & E-Commerce -->
-<img src="https://profilinator.rishav.dev/skills-assets/wordpress-icon.svg" alt="WordPress" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/shopify.png" alt="Shopify" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/prestashop.png" alt="PrestaShop" height="25" />
-
-<!-- Design Tools -->
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />
-<img src="https://profilinator.rishav.dev/skills-assets/canva.png" alt="Canva" height="25" />
-
-<!-- AI Design/Development Tools -->
-<img src="https://cdn.simpleicons.org/github" alt="GitHub Copilot" height="25" />
-<img src="https://cdn.simpleicons.org/replit" alt="Replit" height="25" />
-<img src="https://cdn.simpleicons.org/figma" alt="Figma AI" height="25" />
-</div>
 
 ---
 
